@@ -13,4 +13,4 @@ http://www.firstobject.com/dn_markupmethods.htm
 # Usage
 - 直接包含源文件到自己程序
 # Contract
-Email: www.kangzixiang@foxmail.com
+Email: kangzixiang@foxmail.com
