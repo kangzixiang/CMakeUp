@@ -2,14 +2,15 @@
 CMakeup: a C++ library for parse XML file.
 
 # Information
-- ¹ÙÍøµØÖ·£ºhttp://www.firstobject.com
-- 1.¹Ù·½ËµÃ÷ÎÄµµÍøÕ¾ 
+- å®˜ç½‘åœ°å€ï¼šhttp://www.firstobject.com
+- 1.å®˜æ–¹è¯´æ˜æ–‡æ¡£ç½‘ç«™ 
 http://www.firstobject.com/fast-start-to-xml-in-c++.htm 
-- 2.¹Ù·½ÎÄ¼şÏÂÔØ 
+- 2.å®˜æ–¹æ–‡ä»¶ä¸‹è½½ 
 http://www.firstobject.com/dn_markup.htm
-- ¹ØÓÚ¹Ù·½ÎÄµµÏà¹ØµÄ·½·¨½âÊÍ
+- å…³äºå®˜æ–¹æ–‡æ¡£ç›¸å…³çš„æ–¹æ³•è§£é‡Š
 http://www.firstobject.com/dn_markupmethods.htm
 
 # Usage
-
+- ç›´æ¥åŒ…å«æºæ–‡ä»¶åˆ°è‡ªå·±ç¨‹åº
 # Contract
+Email: www.kangzixiang@foxmail.com
